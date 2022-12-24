@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sovalye", "Sovalye\Sovalye.csproj", "{633391CE-D03E-44A2-9433-9E7E818CBEFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNA.Core", "FNA\FNA.Core.csproj", "{4B711FDB-BE23-4D20-9149-D85C2CCE042E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FNA.Natives", "FNA.Natives\FNA.Natives.csproj", "{5697BA11-BBDD-4B50-B11D-41F97C9CE97C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633391CE-D03E-44A2-9433-9E7E818CBEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633391CE-D03E-44A2-9433-9E7E818CBEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633391CE-D03E-44A2-9433-9E7E818CBEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633391CE-D03E-44A2-9433-9E7E818CBEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B711FDB-BE23-4D20-9149-D85C2CCE042E}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{4B711FDB-BE23-4D20-9149-D85C2CCE042E}.Debug|Any CPU.Build.0 = Debug|x64
+		{4B711FDB-BE23-4D20-9149-D85C2CCE042E}.Release|Any CPU.ActiveCfg = Release|x64
+		{4B711FDB-BE23-4D20-9149-D85C2CCE042E}.Release|Any CPU.Build.0 = Release|x64
+		{5697BA11-BBDD-4B50-B11D-41F97C9CE97C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5697BA11-BBDD-4B50-B11D-41F97C9CE97C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5697BA11-BBDD-4B50-B11D-41F97C9CE97C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5697BA11-BBDD-4B50-B11D-41F97C9CE97C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
